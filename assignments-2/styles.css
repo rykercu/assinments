@@ -1,0 +1,32 @@
+header {
+	background-color: blue;
+	height: 50px;
+	display: flex;
+	align-items: center;
+}
+div {
+	height: calc(100vh - 100px);
+}
+footer {
+	background-color: red;
+	height: 50px;
+	display: flex;
+	align-items: center;
+
+}
+.mom {
+	display: flex;
+	align-items: center;
+}
+.left {
+	width: 25%;
+	background-color: green;
+}
+.right {
+	width: 25%;
+	background-color: yellow;
+}
+.middle {
+	width: 50%;
+	background-color: orange;
+}
