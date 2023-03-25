@@ -1,0 +1,36 @@
+header li {
+    display: flex;
+    margin: 0 10px;
+}
+
+header a {
+    display: flex;
+    align-items: center;
+    color: black;
+}
+
+header {
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.left-side {
+    display: flex;
+}
+
+header ul {
+    display: flex;
+    justify-content: center;
+}
+
+.right-side {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 35px;
+}
